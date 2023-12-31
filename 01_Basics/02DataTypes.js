@@ -7,3 +7,7 @@
 //undefined=> when we declare a variable but we did't intialize yet
 
 //symbol :: unique
+
+
+console.log(typeof undefined) //undefined
+console.log(typeof null) //object
